@@ -44,7 +44,9 @@
 
 # Conclusiones:
 
-- 
+- El análisis de tendencias de YouTube identificó categorías populares como Music y Comedy, el canal Troom Troom FR como el más destacado y Ile de France como la región con más vistas y reacciones. Aunque se evidenció una disminución en la tendencia de videos después de 2012, los modelos predictivos fueron efectivos para estimar "Me gusta" y "Vistas", pero no "No me gusta". Este estudio, basado en CRISP-DM, ofreció insights valiosos para una empresa de marketing digital, fortaleciendo habilidades en análisis y predicción de datos.
+  
+- Este proyecto no solo permitió responder a los requerimientos del cliente, una empresa de marketing digital, sino también generar valiosa experiencia en el uso de la metodología CRISP-DM, herramientas de ciencia de datos, y técnicas de modelado para evaluar y predecir tendencias en plataformas digitales.
 
 # Licencia:
 
